@@ -1,0 +1,15 @@
+img{
+   text-align: center;
+    width: 20%;
+    margin:10%;
+  }
+  .container{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+    margin-left: 42%;
+    margin-top: 5%;
+    height: 60%;
+    width: 20%;
+    border-radius: 20px;
+  }
